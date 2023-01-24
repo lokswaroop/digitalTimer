@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg {
+  background-color: #cffcf1;
+}
+.heading {
+  color: #00d9f5;
+}
+
+.backgroundImage {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+}
+.circle {
+  background-color: #ffffff;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+.flex {
+  display: flex;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
+.image {
+  height: 20px;
+  width: 20px;
+}
